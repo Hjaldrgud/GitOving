@@ -1,1 +1,3 @@
 Hei
+
+Dette er gjort fra PC. skal sjekke om Git Bash merker noe.
