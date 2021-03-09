@@ -3,3 +3,5 @@ Hei
 Dette er gjort fra PC. skal sjekke om Git Bash merker noe.
 
 Dette tester ut branch
+
+Nå skal jeg prøve en pull request. Leser du dette på main, så har jeg fått det til.
